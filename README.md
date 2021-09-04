@@ -6,7 +6,7 @@
 
 ## Contact
 * Tel: +82-2-3290-3738
-* E-mail: ssikjeong1@korea.ac.kr (office) / ssikjeong1@gmail.com (personal)
+* E-mail: ssikjeong1@korea.ac.kr (work) / ssikjeong1@gmail.com (personal)
 
 ## Research Interest
 * Machine/Deep Learning, Time-series Data Analysis, 2D/3D Computer Vision
